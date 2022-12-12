@@ -25,7 +25,7 @@ Some stretch goals that we may work on are:
 We will initially work on getting the service working on Linux machines and will support the copying of text, and will later expand it to other types of data and other operating systems.
 
 #### Team members:
-Aditya Srivastava, Aishwarya Jayaramu, Harsh Gupta
+Harsh Gupta, Aditya Srivastava, Aishwarya Jayaramu
 
 ## Notes
 
